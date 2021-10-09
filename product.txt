@@ -1,0 +1,8 @@
+Pepsi
+Coke
+Burger
+Pizza
+FrenchFries
+Nuggets
+ChickenFriedRice
+FriedRice
